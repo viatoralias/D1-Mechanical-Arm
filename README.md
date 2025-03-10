@@ -5,8 +5,8 @@
 ## Simple movements of the arm
 <ins>**Task**</ins>: Move each of the arm's brusheless motors independantly.  
 
-The guide section explains how to control the brushless motor using [ROS2](https://wiki.ros.org/ROS/Installation).  
-The code section contains all the code needed to control the arm's actuators.
+[The guide section](https://github.com/viatoralias/D1-Mechanical-Arm/blob/main/Guide/Guide.md) explains how to control the brushless motor using [ROS2](https://wiki.ros.org/ROS/Installation).  
+[The code section](https://github.com/viatoralias/D1-Mechanical-Arm/blob/main/Code/Code.md) contains all the code needed to control the arm's actuators.
 
 # Documentation
 *Below is a list of references used for the plannification and test of the application cases:*
