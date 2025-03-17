@@ -23,10 +23,10 @@
 - Joint 5: ±135°.
 - Joint 6: -40° ~ +20°.
 ## Torque of each joint
-- J0: 3.3NM.
-- J1: 3.3NM.
-- J2: 1.7NM.
-- J3: 1.7NM.
-- J4: 1.7NM.
-- J5: 1.7NM.
-- J6: 1.7NM.
+- J0: 3.3N.m.
+- J1: 3.3N.m.
+- J2: 1.7N.m.
+- J3: 1.7N.m.
+- J4: 1.7N.m.
+- J5: 1.7N.m.
+- J6: 1.7N.m.
