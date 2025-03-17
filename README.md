@@ -14,3 +14,4 @@
 - [Unitree's D1 Mechanical Arm Services Interface](https://support.unitree.com/home/en/developer/D1Arm_services).  
 - [Unitree's ROS environment setup github](https://github.com/unitreerobotics/unitree_ros2).  
 - [Unitree's Software Development Kit](https://github.com/unitreerobotics/unitree_sdk2).  
+- [Open Manipulator X ROS Control](https://www.docs.quadruped.de/projects/go2/html/go2-om.html).  
