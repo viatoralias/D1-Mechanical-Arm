@@ -14,5 +14,5 @@
 - **data**: ID, Angle, Delay (ms).
 **Example of such an instruction**:
 ```json
-{"seq":4,"address":1,"funcode":1",data":{"id": joint number,"angle": joint target angle,"delay_ms": execution time}}
+{"seq":4,"address":1,"funcode":1",data":{"id": joint number, "angle": joint target angle, "delay_ms": execution time}}
 ```
