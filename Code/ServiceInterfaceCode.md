@@ -14,6 +14,8 @@ We only control the motor angle of a single joint of the robot arm.
 - `adress`: 1.
 - `funcode`: 1.
 - `data`: Id, Angle, Delay (ms).  
+  
+
 **Example of such an instruction**:
 ```json
 {"seq":4,"address":1,"funcode":1",data":{"id":joint number,"angle":joint target angle,"delay_ms":execution time}}
@@ -26,6 +28,8 @@ We control the motor angle of all the joints of the robot arm.
 - `adress`: 1.
 - `funcode`: 2.
 - `data`: Mode, Angles 0~6.  
+  
+
 **Example of such an instruction**:
 ```json
 {"seq":4,"address":1,"funcode":2,"data":{"mode":control mode,"angle0":joint0 angle value,"angle1":joint1 angle value,"angle2":joint2 angle value,"angle3":joint3 angle value,"angle4":joint4 angle value,"angle5":joint5 angle value,"angle6":joint6 angle value}}
@@ -37,6 +41,8 @@ We control the motor angle of all the joints of the robot arm.
 - `adress`: 1.
 - `funcode`: 4.
 - `data`: Mode.  
+  
+
 **Example of such an instruction**:
 ```json
 {"seq":4,"address":1,"funcode":4,"data":{"id": joint id,"mode": enable mode}}
@@ -48,6 +54,8 @@ We control the motor angle of all the joints of the robot arm.
 - `adress`: 1.
 - `funcode`: 5.
 - `data`: Mode.  
+  
+
 **Example of such an instruction**:
 ```json
 {"seq":4,"address":1,"funcode":5,"data":{"mode": enable mode}}
@@ -59,6 +67,8 @@ We control the motor angle of all the joints of the robot arm.
 - `adress`: 1.
 - `funcode`: 6.
 - `data`: Mode.  
+  
+
 **Example of such an instruction**:
 ```json
 {"seq":4,"address":1,"funcode":6,"data":{"power": enable mode}}
@@ -70,6 +80,8 @@ We control the motor angle of all the joints of the robot arm.
 - `adress`: 1.
 - `funcode`: 7.
 - `data`: no data.  
+  
+
 **Example of such an instruction**:
 ```json
 {"seq":4,"address":1,"funcode":7}
@@ -80,6 +92,8 @@ We control the motor angle of all the joints of the robot arm.
 - `adress`: 2.
 - `funcode`: 1.
 - `data`: Angles 0~6.  
+  
+
 **Example of such an instruction**:
 ```json
 {"seq":10,"address":2,"funcode":1,"data":{"angle0": joint 0 Angle value,"angle1":joint 1 Angle value,"angle2":joint 2 Angle value,"angle3":joint 3 point of value,"angle4": joint 4 angles Value,"angle5": joint 5 angle value,"angle6": joint 6 angle value}}
@@ -91,6 +105,8 @@ We control the motor angle of all the joints of the robot arm.
 - `adress`: 3.
 - `funcode`: 2.
 - `data`: exec_status.  
+  
+
 **Example of such an instruction**:
 ```json
 {"seq":10,"address":3,"funcode":2,"data":{"exec_status": execution status}}
