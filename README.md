@@ -2,8 +2,7 @@
 **The purpose of this project is to give a few application cases of the [Unitree robotic arm D1](https://www.unitree.com/D1-T) as part of the univesity of Cote d'Azur, [Polyech Nice-Sophia](https://polytech.univ-cotedazur.eu/)'s *Robotics & Autonomous Systems*' formation.**
 
 # Cases of application
-## Simple movements of the arm
-<ins>**Task**</ins>: Move each of the arm's brusheless motors independantly.  
+## Arm Movement Control  
 
 [The guide section](https://github.com/viatoralias/D1-Mechanical-Arm/blob/main/Guide/Guide.md) explains how to control the brushless motor using [ROS2](https://wiki.ros.org/ROS/Installation).  
 [The code section](https://github.com/viatoralias/D1-Mechanical-Arm/blob/main/Code/Code.md) contains all the code needed to control the arm's actuators.
