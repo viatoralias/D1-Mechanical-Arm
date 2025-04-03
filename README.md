@@ -4,7 +4,7 @@
 # Cases of application
 ## Arm Movement Control  
 
-[The guide section](https://github.com/viatoralias/D1-Mechanical-Arm/blob/main/Guide/Guide.md) explains how to control the brushless motor using [ROS2](https://wiki.ros.org/ROS/Installation).  
+[The guide section](https://github.com/viatoralias/D1-Mechanical-Arm/blob/main/Guide/Guide.md) explains how to control the brushless motor using [ROS](https://wiki.ros.org/ROS/Installation).  
 [The code section](https://github.com/viatoralias/D1-Mechanical-Arm/blob/main/Code/Code.md) contains all the code needed to control the arm's actuators.
 
 # Documentation
